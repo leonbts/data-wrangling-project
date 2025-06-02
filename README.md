@@ -40,15 +40,15 @@ This project analyzes SpaceX launch data using the SpaceX API to explore pattern
 
 ## Repository Structure
 
-├── data/ # Contains the datasets as CSV files (if needed)
-├── notebooks/ # Jupyter notebooks for analysis
-│ └── eda.ipynb
-├── src/ # Source code for API handling and data cleaning
-│ ├── api_handler.py
-│ └── cleaning.py
-├── .gitignore
-├── README.md
-└── requirements.txt
+├── data/ # Contains the datasets as CSV files (if needed)<br>
+├── notebooks/ # Jupyter notebooks for analysis<br>
+│ └── eda.ipynb<br>
+├── src/ # Source code for API handling and data cleaning<br>
+│ ├── api_handler.py<br>
+│ └── cleaning.py<br>
+├── .gitignore<br>
+├── README.md<br>
+└── requirements.txt<br>
 
 ## Acknowledgments
 
