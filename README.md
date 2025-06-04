@@ -8,8 +8,8 @@ This project analyzes SpaceX launch data using the SpaceX API to explore pattern
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spacex-launch-analysis.git
-   cd spacex-launch-analysis
+   git clone https://github.com/leonbts/data-wrangling-project
+   cd data-wrangling-project
    ```
 2. Install the required Python packages:
    ```bash
